@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import Heading from "./Heading";
 import List from "./List";
 
-export function App() {
+function App() {
   return (
     <>
       <Heading />
